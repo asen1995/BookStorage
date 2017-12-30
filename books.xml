@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+	<book>
+		<title>Petur i ivan</title>
+		<author>ivan</author>
+		<izdanie>1</izdanie>
+		<ISBN>123</ISBN>
+		<date>
+			<day>1</day>
+			<month>3</month>
+			<year>2000</year>
+		</date>
+		<tiraj>1</tiraj>
+		<certificate>
+			<certificateDate>
+				<certificateDay>0</certificateDay>
+				<certificateMonth>1</certificateMonth>
+				<certificateYear>2010</certificateYear>
+			</certificateDate>
+		</certificate>
+		<bookDistributor>
+			<name>Asen</name>
+			<telephone>0558854</telephone>
+			<address>slaveic4</address>
+		</bookDistributor>
+		<price>30.9</price>
+	</book>
+	<book>
+		<title>Henzel</title>
+		<author>rprprp</author>
+		<izdanie>33</izdanie>
+		<ISBN>342</ISBN>
+		<date>
+			<day>4</day>
+			<month>4</month>
+			<year>2016</year>
+		</date>
+		<tiraj>2</tiraj>
+		<certificate>
+			<certificateDate>
+				<certificateDay>3</certificateDay>
+				<certificateMonth>4</certificateMonth>
+				<certificateYear>2016</certificateYear>
+			</certificateDate>
+		</certificate>
+		<bookDistributor>
+			<name>rewrw</name>
+			<telephone>werwerwetertete</telephone>
+			<address>erwerw</address>
+		</bookDistributor>
+		<price>20.3</price>
+	</book>
+	<book>
+		<title>pepepe</title>
+		<author>pet</author>
+		<author>ASEN NIKOLAEV</author>
+		<izdanie>3</izdanie>
+		<ISBN>3</ISBN>
+		<date>
+			<day>1</day>
+			<month>4</month>
+			<year>2015</year>
+		</date>
+		<tiraj>3</tiraj>
+		<bookDistributor>
+			<name>Asenko distributora</name>
+			<telephone>087777888784</telephone>
+			<address>asepe pee</address>
+		</bookDistributor>
+		<price>34.0</price>
+	</book>
+</books>
