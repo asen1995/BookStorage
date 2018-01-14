@@ -1,8 +1,5 @@
 package bg.app;
 
-import java.time.LocalDate;
-import java.util.Date;
-
 import bg.action.BookShop;
 
 public class App {
